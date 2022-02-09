@@ -1,0 +1,11 @@
+name: hyperguide
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - notebook
+  - ipywidgets
+  - scikit-learn
+  - pandas
+  - numpy
