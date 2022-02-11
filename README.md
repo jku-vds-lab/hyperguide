@@ -1,5 +1,5 @@
 # hyperguide
-Guided Visual Hyperparameter Selection
+Guided Visual Hyperparameter Tuning
 
 
 ## Development Environment
