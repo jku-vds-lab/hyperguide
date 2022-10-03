@@ -1,11 +1,13 @@
 name: hyperguide
 channels:
   - defaults
+  - conda-forge
 dependencies:
-  - python
-  - jupyterlab
-  - notebook
-  - ipywidgets
-  - scikit-learn
-  - pandas
-  - numpy
+  - ipywidgets=7.6.5=pyhd3eb1b0_1
+  - jupyterlab=3.4.4=py310hecd8cb5_0
+  - numpy=1.23.1=py310hdcd3fac_0
+  - pandas=1.4.3=py310he9d5cce_0
+  - plotly=5.9.0=py310hecd8cb5_0
+  - python=3.10.4=hdfd78df_0
+  - scikit-learn=1.1.1=py310he9d5cce_0
+  - seaborn=0.11.2=pyhd3eb1b0_0
